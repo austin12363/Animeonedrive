@@ -41,6 +41,7 @@ module.exports = {
   // the directories in which you have .password set. Check the documentation for details.
   protectedRoutes: [
     "/",
+    "/Series/Ushio Tora (2015) [tvdbid=294001]",
   ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
